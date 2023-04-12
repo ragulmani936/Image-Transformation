@@ -156,11 +156,12 @@ plt.show()
 
 ### iv)Image Reflection
 
-
+![img](https://github.com/ragulmani936/Image-Transformation/blob/main/img4.png)
 
 
 ### v)Image Rotation
 
+![img](https://github.com/ragulmani936/Image-Transformation/blob/main/img5.png)
 
 
 
